@@ -7,7 +7,7 @@ const func=()=>{
 
     const today=Date.now()
     
-    const newdate=new Date("Feburary 14, 2025 00:00:00")
+    const newdate=new Date("January 23, 2025 00:00:00")
     
     var diff=newdate-today
     
